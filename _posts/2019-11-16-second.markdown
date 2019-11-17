@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "致樊思容的第二封信"
+date:   2019-11-16 20:26:58 +0800
+categories: jekyll update
+---
+时隔一个月，终于看到了樊姐的自拍，找张你的照片真难，第一张还是支付宝头像扒下来的，真难。
+<br/>
+<br/>
+![](/images/1.jpeg){:height="50%" width="50%"}  
+<br/>
+<br/>
+![](/images/2.jpeg){:height="50%" width="50%"}  
+<br/>
+<br/>
+![](/images/3.jpeg){:height="50%" width="50%"}  
+<br/>
+<br/>

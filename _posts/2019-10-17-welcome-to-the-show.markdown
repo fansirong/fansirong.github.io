@@ -7,9 +7,9 @@ categories: jekyll update
 
 <br/>
 <br/>
-![](/images/fanjie.jpg)  
+![](/images/fanjie.jpg){:height="60%" width="60%"}  
 <br/>
 <br/>
-此网站高价转让给樊姐。  
+此域名高价转让给樊姐。  
 <br/>
 **--刘强**
